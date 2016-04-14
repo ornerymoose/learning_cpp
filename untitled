@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+//this program will be an extension of change.cpp from Module 2, using if/else
+
+int main(){
+	double quarters, dimes, nickels, pennies;
+	
+	return 0;
+}
